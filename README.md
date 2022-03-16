@@ -13,3 +13,4 @@
 - Powershell
 - Rust
 - Minecraft function
+- Python
