@@ -15,3 +15,4 @@
 - Minecraft function
 - Python
 - Kotlin
+- Brainfuck
