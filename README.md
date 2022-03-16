@@ -17,3 +17,4 @@
 - Kotlin
 - Brainfuck
 - C++
+- Bash
