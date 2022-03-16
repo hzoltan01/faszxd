@@ -3,12 +3,12 @@
 
 ## Nyelvek amikben már megírták a fasz XD-t
 
-Haskell
-Java
-C#
-Assembly
-C
-Javascript
-Lua
-Powershell
-Rust
+-Haskell
+-Java
+-C#
+-Assembly
+-C
+-Javascript
+-Lua
+-Powershell
+-Rust
