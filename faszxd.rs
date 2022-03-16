@@ -1,1 +1,1 @@
-fn main() { for _ in 0..1000000 { print!("fasz XD "); } }
+fn main() { for _ in 0..1000000 { println!("fasz XD"); } }
