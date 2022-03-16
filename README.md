@@ -18,3 +18,4 @@
 - Brainfuck
 - C++
 - Bash
+- Scratch
