@@ -1,0 +1,1 @@
+fun main() { for (i in 1..1000000) { println("fasz XD") } }
