@@ -1,0 +1,1 @@
+﻿for ( $i = 1; $i -le 1000000; $i++) {Write-Output "fasz xd"}
