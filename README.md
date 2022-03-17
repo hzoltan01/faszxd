@@ -7,11 +7,11 @@
 - Java
 - C#
 - Assembly
-- C
+- C és C makró verzió
 - Javascript
 - Lua
 - Powershell
-- Rust
+- Rust és Rust makró verzió de 8 giga ram se elég a lefordításához
 - Minecraft function
 - Python (+grafikusan)
 - Kotlin
@@ -23,4 +23,6 @@
 - PHP
 - CSS
 - VBA
-- C Macro
+- Ruby
+
+(21)
