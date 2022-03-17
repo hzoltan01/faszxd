@@ -13,7 +13,7 @@
 - Powershell
 - Rust
 - Minecraft function
-- Python
+- Python (+grafikusan)
 - Kotlin
 - Brainfuck
 - C++
