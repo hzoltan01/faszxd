@@ -34,7 +34,7 @@ def main():
 
     # D
     pygame.draw.line(screen,Color_line,(410,80),(410,180))
-    pygame.draw.arc(screen,Color_line,[370,80,80,100],3*PI/2,PI/2,1)
+    pygame.draw.arc(screen,Color_line,[360,80,100,100],3*PI/2,PI/2,1)
     
     pygame.display.flip()
     while True:
