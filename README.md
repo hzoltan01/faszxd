@@ -19,3 +19,4 @@
 - C++
 - Bash
 - Scratch
+- Go
