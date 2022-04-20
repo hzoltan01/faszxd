@@ -1,0 +1,1 @@
+With Ada.Text_IO; Use Ada.Text_IO;With Ada.Integer_Text_IO; Use Ada.Integer_Text_IO;procedure Program is use Ada.Text_IO;Value : Integer;begin while Value < 1000000 loop put_line("fasz XD");Value := Value +1;end loop;end Program;
