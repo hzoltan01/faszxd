@@ -26,5 +26,6 @@
 - Ruby
 - Minecraft mod (Java)
 - Imagine
+- Swift
 
 (22)
